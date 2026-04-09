@@ -256,6 +256,8 @@
     table { font-size: 0.8rem; }
     th, td { padding: 0.5rem 0.6rem; }
   }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a bankruptcy mill?", "acceptedAnswer": {"@type": "Answer", "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal attorney involvement. Cases are often handled by paralegals or software, leading to errors, missed deadlines, and poor outcomes for clients."}}, {"@type": "Question", "name": "How do I know if my bankruptcy attorney is a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Warning signs include: you rarely speak with an actual attorney, your case is one of hundreds filed monthly, communications come only from paralegals, hearings are attended by attorneys you have never met, and billing entries are generic or duplicated."}}, {"@type": "Question", "name": "What problems do bankruptcy mills cause?", "acceptedAnswer": {"@type": "Answer", "text": "Common issues include missed deadlines, incorrect schedules, failure to claim available exemptions, dismissed cases, unnecessary fees, and lack of personalized legal advice. Clients may lose assets they could have protected with competent counsel."}}, {"@type": "Question", "name": "Can I fire my bankruptcy attorney if they are a mill?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can substitute counsel or proceed pro se at any time. File a motion to substitute counsel with the court. You may also be entitled to a refund of fees for work not performed or performed negligently."}}, {"@type": "Question", "name": "How many cases should a bankruptcy attorney handle?", "acceptedAnswer": {"@type": "Answer", "text": "There is no hard limit, but attorneys filing more than 20-30 cases per month may struggle to provide adequate individual attention. Quality representation requires reviewing each client's unique financial situation, assets, and exemptions."}}]}
@@ -283,6 +285,8 @@
 </nav>
 
 <header><h1>Do Not <span class="accent">Sell Property</span> Below Value</h1><p class="subtitle">Selling assets for less than they are worth before filing creates a constructive fraudulent transfer -- even without intent to defraud.</p></header><main>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://whatnottobeforebankruptcy.com">whatnottobeforebankruptcy.com</a><span class="separator">&rsaquo;</span><span>Do Not Sell Property Below Value Before Bankruptcy</span></nav>
+
 <div class="content-section"><h2>Constructive fraudulent transfers</h2><p>Under <strong>11 U.S.C. &sect; 548(a)(1)(B)</strong>, the trustee can void any transfer where the debtor received "less than a reasonably equivalent value" while insolvent. Unlike actual fraud, this does not require proof of intent. The transaction itself is enough.</p><p>Selling your car worth $15,000 to a friend for $5,000 is a textbook constructive fraudulent transfer. The trustee can void the sale, recover the car (or its value), and use it to pay creditors.</p>
 <div class="statute-box"><p><strong>11 U.S.C. &sect; 548(a)(1)(B):</strong> A transfer is avoidable if the debtor received less than reasonably equivalent value in exchange and was insolvent at the time of the transfer (or became insolvent as a result).</p></div></div>
 <div class="content-section"><h2>What counts as less than reasonably equivalent value?</h2><p>Courts generally look at the fair market value of the property at the time of the transfer. If the sale price is significantly below market value -- typically less than 70-75% of fair value -- it is likely to be challenged. Factors include:</p><ul>
@@ -426,5 +430,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString()}).catch(function(){})</script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

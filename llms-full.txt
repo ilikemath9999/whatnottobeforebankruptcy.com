@@ -1,0 +1,1641 @@
+# whatnottobeforebankruptcy.com -- Full Content
+
+This file contains the full text content of all pages on whatnottobeforebankruptcy.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Do Not Cash Out Retirement Before Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-cash-out-retirement.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Cash Out Retirement
+
+Your retirement accounts are protected in bankruptcy. Cashing them out to pay debts that would be discharged is the most expensive mistake people make.
+
+The math is devastating
+
+Consider this scenario: you owe $50,000 in credit card debt. You have $40,000 in a 401(k). You cash out the 401(k) and use it to pay credit cards, hoping to avoid bankruptcy.
+
+You receive about $28,000 after taxes and the 10% early withdrawal penalty
+
+You still owe $22,000 in credit card debt
+
+You owe $12,000 in taxes and penalties on the withdrawal
+
+Your retirement savings are gone
+
+You file bankruptcy anyway because you still cannot pay the remaining debt
+
+If you had filed bankruptcy without cashing out the 401(k): all $50,000 in credit card debt would have been discharged, and your $40,000 in retirement savings would have been fully protected. The 401(k) was safe the whole time.
+
+Why retirement accounts are protected
+
+Retirement accounts receive the strongest protection in bankruptcy:
+
+401(k), 403(b), pension, profit-sharing plans: Unlimited protection under federal law (11 U.S.C. § 522(b)(3)(C); Patterson v. Shumate, 504 U.S. 753 (1992))
+
+Traditional and Roth IRAs: Protected up to ~$1,512,350 (§ 522(n))
+
+SEP-IRAs and SIMPLE IRAs: Unlimited protection (treated as employer plans)
+
+The trustee cannot touch these accounts. They are not property of the estate that can be liquidated.
+
+For full details, see our retirement exemptions guide.
+
+Once you cash out, the protection is gone. The money in your 401(k) is protected. The money in your bank account after cashing out is not (or is protected only up to the wildcard exemption amount). The moment you withdraw, you convert protected property into unprotected property.
+
+Talk to a bankruptcy attorney before touching retirement savings. An experienced attorney will tell you that retirement accounts are off-limits to the trustee. The consultation fee is a fraction of what you would lose by cashing out.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Do Not Hide Income Before or During Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-hide-income.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Hide Income
+
+Underreporting income on your bankruptcy petition is perjury. Trustees have multiple ways to verify what you earn -- and they use all of them.
+
+Everything is under oath
+
+Your bankruptcy petition, schedules, and statement of financial affairs are filed under penalty of perjury. Your testimony at the 341 meeting is under oath. Making false statements about your income is a federal crime under 18 U.S.C. § 152.
+
+Beyond the criminal risk, hiding income can result in denial of your discharge under 11 U.S.C. § 727(a)(4) (false oath) or dismissal of your case for abuse under § 707(b).
+
+How trustees verify income
+
+Bank statements. Total deposits are compared against reported income. Unexplained deposits trigger investigation.
+
+Tax returns. The trustee reviews 2 to 3 years of tax returns. Reported income must match your petition.
+
+Pay stubs. Under 11 U.S.C. § 521(a)(1)(B)(iv), you must provide 60 days of pay stubs to the trustee before the 341 meeting.
+
+Employer verification. The trustee can contact your employer directly.
+
+State and federal databases. Wage data, unemployment benefits, and Social Security income are all verifiable.
+
+Cash business investigation. For self-employed debtors, the trustee may request profit and loss statements, client invoices, and bank account analyses.
+
+Common income-hiding mistakes
+
+Reporting W-2 income but omitting side gig or freelance income
+
+Having a family member or friend deposit your income into their bank account
+
+Failing to report rental income from a property you own
+
+Underreporting self-employment income by inflating business expenses
+
+Omitting regular cash income (tips, informal employment)
+
+The consequences are severe. Hiding income can result in: (1) denial of discharge, (2) criminal prosecution, (3) case dismissal with prejudice (barring refiling for 180 days), and (4) permanent damage to your credibility if you ever need to refile.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Do Not Pay Family Members Before Filing Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-pay-family-first.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Pay Family First
+
+Paying back a family loan before filing bankruptcy seems like the right thing to do. It is one of the most common -- and most damaging -- pre-filing mistakes.
+
+Preferential transfers to insiders
+
+Under 11 U.S.C. § 547, the trustee can avoid (claw back) payments made to creditors before filing if those payments give the creditor more than they would receive in a Chapter 7 liquidation. For ordinary creditors, the lookback is 90 days. For insiders -- family members, business partners, and closely related entities -- the lookback is 1 full year.
+
+Family members are insiders under § 101(31). If you paid your mother back $5,000 on a personal loan 8 months before filing, the trustee can sue your mother to recover that $5,000 for the estate.
+
+11 U.S.C. § 547(b): The trustee may avoid any transfer of an interest of the debtor in property to or for the benefit of a creditor, made within 90 days before filing (or 1 year for insiders), if the creditor received more than they would have in a Chapter 7 liquidation.
+
+Why this happens
+
+People feel obligated to pay back family before filing. They think: "I owe my brother $10,000. He loaned it to me in good faith. I should pay him back before I file." The intention is honorable, but the legal consequence is that you have dragged your brother into your bankruptcy case.
+
+The trustee does not care about your intentions. The trustee sees that one creditor got paid while others got nothing. That is the definition of a preference -- and the Code requires the trustee to pursue it.
+
+What happens to your family member
+
+The trustee sends a demand letter to your family member requesting return of the payment
+
+If they do not pay voluntarily, the trustee files a lawsuit (adversary proceeding)
+
+The court can order your family member to repay the money to the estate
+
+Your family member may need to hire their own attorney to respond
+
+The 1-year lookback for insiders is one of the longest in the Code. Even payments made 11 months before filing can be recovered. If you are considering bankruptcy, stop making payments to family members immediately and consult an attorney.
+
+The good news: your family member may still get paid. Once the preferential payment is returned to the estate, your family member becomes a creditor in the bankruptcy case and may receive a distribution -- just like every other unsecured creditor.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Do Not Run Up Credit Cards Before Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-run-up-credit.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Run Up Credit Before Bankruptcy
+
+Charging up credit cards when you know you are about to file creates a legal presumption of fraud -- and those debts may not be discharged.
+
+The luxury goods presumption
+
+Under 11 U.S.C. § 523(a)(2)(C), there is a rebuttable presumption that certain debts incurred shortly before filing are nondischargeable:
+
+Consumer debts over $725 for luxury goods or services incurred within 90 days of filing to a single creditor
+
+Cash advances over $1,000 within 70 days of filing
+
+If a creditor files an adversary proceeding, you bear the burden of proving you did not intend to defraud them. The presumption of fraud shifts the burden to you.
+
+11 U.S.C. § 523(a)(2)(C)(i)(I): Consumer debts owed to a single creditor and aggregating more than $725 for luxury goods or services incurred within 90 days before filing are presumed nondischargeable.
+
+What counts as luxury goods?
+
+"Luxury goods or services" does not include goods or services reasonably necessary for support or maintenance. Groceries, medical expenses, and basic necessities are not luxury goods. But electronics, vacations, expensive clothing, and entertainment are.
+
+The line is not always clear. Courts look at the totality of the circumstances -- what you bought, when, and whether you had any reasonable expectation of being able to pay.
+
+What actually happens
+
+Most credit card companies do not pursue nondischargeability actions over small amounts -- it is not worth the legal cost. But for larger charges (several thousand dollars or more), the creditor may file an adversary proceeding alleging fraud under § 523(a)(2).
+
+If the court finds fraud, those specific debts survive your bankruptcy. You still owe them after discharge.
+
+Stop using credit cards as soon as you decide to file bankruptcy. The safest approach is to stop all credit card usage immediately. Pay for necessities with cash or debit. The longer the gap between your last credit card charge and your filing date, the safer you are.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Do Not Sell Property Below Value Before Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-sell-property.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Sell Property Below Value
+
+Selling assets for less than they are worth before filing creates a constructive fraudulent transfer -- even without intent to defraud.
+
+Constructive fraudulent transfers
+
+Under 11 U.S.C. § 548(a)(1)(B), the trustee can void any transfer where the debtor received "less than a reasonably equivalent value" while insolvent. Unlike actual fraud, this does not require proof of intent. The transaction itself is enough.
+
+Selling your car worth $15,000 to a friend for $5,000 is a textbook constructive fraudulent transfer. The trustee can void the sale, recover the car (or its value), and use it to pay creditors.
+
+11 U.S.C. § 548(a)(1)(B): A transfer is avoidable if the debtor received less than reasonably equivalent value in exchange and was insolvent at the time of the transfer (or became insolvent as a result).
+
+What counts as less than reasonably equivalent value?
+
+Courts generally look at the fair market value of the property at the time of the transfer. If the sale price is significantly below market value -- typically less than 70-75% of fair value -- it is likely to be challenged. Factors include:
+
+Was the price arm's-length (negotiated between unrelated parties)?
+
+Was the property marketed or advertised?
+
+Was the buyer a family member or insider?
+
+Was the debtor insolvent at the time?
+
+Legitimate sales are fine
+
+Selling property at fair market value is perfectly legal, even right before filing. The issue is the discount. If you sell your car for what it is actually worth, the cash proceeds replace the car in your estate. The trustee has no complaint because the estate was not diminished.
+
+Problems arise when the sale is really a disguised gift -- selling property to insiders at a steep discount to keep it out of the bankruptcy estate.
+
+Garage sales and personal property. Selling household items at typical garage-sale prices is generally not a problem because the items have low liquidation value anyway. But selling a boat, RV, jewelry, or other high-value asset at a steep discount within 2 years of filing will draw trustee scrutiny.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Do Not Transfer Assets Before Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-transfer-assets.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Transfer Assets Before Bankruptcy
+
+Transferring property to hide it from creditors is the fastest way to turn a fresh start into a federal case.
+
+The law on fraudulent transfers
+
+Under 11 U.S.C. § 548(a)(1), the trustee can void any transfer made within 2 years of filing if the debtor made the transfer with "actual intent to hinder, delay, or defraud" a creditor.
+
+The trustee can also void transfers where the debtor received "less than a reasonably equivalent value" while insolvent -- even without fraudulent intent. This is called a constructive fraudulent transfer under § 548(a)(1)(B).
+
+11 U.S.C. § 548(a)(1)(A): "The trustee may avoid any transfer of an interest of the debtor in property... that was made within 2 years before the date of the filing of the petition, if the debtor voluntarily or involuntarily made such transfer with actual intent to hinder, delay, or defraud any entity to which the debtor was indebted."
+
+Common transfer mistakes
+
+Putting the house in a spouse's name. This is the classic fraudulent transfer. The trustee can reverse it and sell the property.
+
+Signing a car title to a family member. Even if you think it is "their car," the title transfer within 2 years is voidable.
+
+Moving money to a friend's bank account. The trustee reviews bank statements and will see the transfers.
+
+Creating an LLC and moving assets into it. This is transparent to any trustee and adds potential criminal exposure.
+
+Paying off a family member's mortgage with your funds. This is both a fraudulent transfer and a preferential payment.
+
+What happens if the trustee finds a fraudulent transfer
+
+The trustee sues to void the transfer under § 548
+
+The court orders the property returned to the estate
+
+If the recipient spent or sold the property, the court orders payment of the value
+
+The trustee may also seek denial of your discharge under § 727(a)(2)
+
+In serious cases, the U.S. Trustee refers the matter for criminal investigation under 18 U.S.C. § 152
+
+The 2-year lookback is a minimum. Under state fraudulent transfer laws (which the trustee can also use via 11 U.S.C. § 544), the lookback period can be 4 to 6 years or longer. A transfer you made 3 years ago may still be avoidable.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Do Not Wait Too Long to File Bankruptcy
+Source: https://whatnottobeforebankruptcy.com/dont-wait-too-long.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Do Not Wait Too Long to File
+
+Every week you delay filing, creditors are garnishing wages, levying bank accounts, filing liens, and accumulating interest. The automatic stay stops all of it -- but only if you file.
+
+What happens while you wait
+
+While you are debating whether to file, creditors are not waiting. They are:
+
+Garnishing your wages. In most states, creditors can take up to 25% of your disposable earnings. That money is gone -- it cannot be recovered in bankruptcy.
+
+Levying your bank accounts. A judgment creditor can freeze and seize funds in your bank account.
+
+Filing liens on your property. Judgment liens attach to your real estate and can survive bankruptcy under 11 U.S.C. § 522(f) avoidance rules -- but only if you have sufficient exemptions.
+
+Repossessing vehicles. Secured creditors can repossess without warning in most states.
+
+Foreclosing on your home. The longer you wait, the more arrears accumulate and the harder it becomes to save the house in Chapter 13.
+
+The automatic stay stops everything
+
+The moment you file bankruptcy, the automatic stay under 11 U.S.C. § 362 kicks in. It stops all collection activity: garnishments, lawsuits, phone calls, letters, foreclosures, repossessions, and levies. It is one of the most powerful protections in American law.
+
+But the automatic stay only helps if you actually file. Every day you delay is a day your creditors can take your money and property.
+
+When waiting makes sense
+
+There are a few situations where strategic delay is advisable:
+
+Waiting to satisfy the § 1328(f) time bar. If you had a prior bankruptcy, you may need to wait for the time bar to expire. See 1328f.com.
+
+Waiting 91 days after a large payment. If you made a preferential transfer, waiting until after the 90-day lookback expires can avoid complications.
+
+Completing the credit counseling requirement. You must complete an approved credit counseling course within 180 days before filing (11 U.S.C. § 109(h)).
+
+Timing income for the means test. If your income recently dropped, waiting can improve your means test result.
+
+Waiting does not make debt go away. Interest accrues. Fees pile up. Lawsuits result in judgments. Garnishments drain your paycheck. In most cases, delaying bankruptcy only makes the situation worse and the eventual filing more complicated.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Pre-Filing Bankruptcy FAQ -- What to Avoid
+Source: https://whatnottobeforebankruptcy.com/faq.html
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+Pre-Filing FAQ
+
+Common questions about what to do -- and what not to do -- before filing bankruptcy.
+
+Frequently asked questions
+
+How long before filing should I stop using credit cards?
+
+Stop immediately once you know you will file. The safe harbor is at least 90 days for purchases over $725 on a single card (luxury goods) and 70 days for cash advances over $1,000. But the broader fraud analysis under 11 U.S.C. § 523(a)(2)(A) has no fixed time period -- so the longer you wait, the safer you are.
+
+Can I pay my regular bills?
+
+Yes. Paying ordinary, recurring obligations -- mortgage, rent, car payment, utilities, insurance -- is fine. These are not preferential transfers because they are payments in the ordinary course of business. The problem arises when you pay old debts, lump-sum repayments, or one creditor at the expense of others.
+
+Can I sell things before filing?
+
+You can sell property at fair market value. The proceeds become part of your estate, and you must disclose the sale. Do not sell property below value to family or friends -- that is a constructive fraudulent transfer.
+
+Can I give gifts before filing?
+
+No. Gifts within 2 years of filing are treated as fraudulent transfers because you received nothing in exchange. This includes birthday gifts, holiday gifts, or charitable donations of significant value.
+
+Is it OK to transfer money between my own accounts?
+
+Moving money between your own bank accounts is generally fine, but large transfers can look suspicious. The trustee reviews bank statements and will ask about any significant movements. Keep records and be transparent.
+
+Can I take out a new loan before filing?
+
+Taking on new debt when you know you are about to file raises fraud concerns. The lender could argue the debt is nondischargeable under § 523(a)(2) because you had no intention of repaying it.
+
+What if I already made a mistake?
+
+Consult a bankruptcy attorney immediately. Many pre-filing mistakes can be mitigated by delaying the filing date (to push the transaction outside the lookback period), disclosing the transaction fully, or structuring the case to address the issue directly. Hiding the mistake is always worse than disclosing it.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## What Not to Do Before Filing Bankruptcy [2026]
+Source: https://whatnottobeforebankruptcy.com/
+
+whatnottobeforebankruptcy.com
+☰
+
+Home
+Transfers
+Family Payments
+Credit Cards
+Hide Income
+Retirement
+Sell Property
+Waiting
+FAQ
+
+What Not to Do Before Filing Bankruptcy
+
+The weeks and months before you file bankruptcy are critical. These mistakes can get your case dismissed, your discharge denied, or even lead to criminal charges.
+
+2 years
+Fraudulent transfer lookback period
+
+90 days
+Preferential payment window
+
+$725
+Luxury goods presumption threshold
+
+Why the pre-filing period matters
+
+The bankruptcy trustee does not just review your finances on the day you file. They look backward -- examining your transactions, transfers, and financial decisions for months or even years before filing. Under 11 U.S.C. § 548, the lookback for fraudulent transfers is 2 years. Under § 547, preferential payments can be clawed back from 90 days to 1 year.
+
+Many people make well-intentioned mistakes during this period. They pay back family members who loaned them money. They transfer a car title to a spouse. They cash out retirement to try to stay current on bills. Every one of these actions can create serious problems in your bankruptcy case.
+
+The seven deadly mistakes
+
+Do Not Transfer Assets
+
+Moving property to hide it from creditors is bankruptcy fraud. The trustee will find it, reverse it, and possibly deny your discharge.
+
+Do Not Pay Family First
+
+Paying back a family loan before filing is a preferential transfer. The trustee can sue your family member to get the money back.
+
+Do Not Run Up Credit
+
+Charging up credit cards when you know you are about to file creates a presumption of fraud. Those debts may survive bankruptcy.
+
+Do Not Hide Income
+
+Underreporting income on your petition is perjury. Trustees cross-check bank deposits, tax returns, and employer records.
+
+Do Not Cash Out Retirement
+
+Your 401(k) is fully protected in bankruptcy. Cashing it out to pay dischargeable debts is the most expensive mistake you can make.
+
+Do Not Sell Property Below Value
+
+Selling assets for less than fair market value is a constructive fraudulent transfer. The trustee can void it and recover the property.
+
+Do Not Wait Too Long
+
+Delaying bankruptcy while creditors garnish wages, levy accounts, and file liens often makes things worse, not better.
+
+FAQ
+
+Common questions about pre-filing dos and do-nots, timing, and how to avoid problems.
+
+Bankruptcy fraud is a federal crime. Concealing assets, making false statements under oath, and fraudulent transfers can result in denial of discharge under 11 U.S.C. § 727 and criminal prosecution under 18 U.S.C. § 152 (up to 5 years in prison and $250,000 fine).
+
+Legitimate pre-filing planning is legal. There is a difference between fraud and planning. Spending exempt funds on necessities, converting non-exempt property to exempt property in good faith, and timing your filing strategically are all permitted. The key is honesty and transparency. Consult an attorney for guidance.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Related Guides
+
+Credit Counseling for Bankruptcy
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Reaffirmation Agreements Explained
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Further Reading & Resources
+
+Authority sources for deeper research on pre-bankruptcy behavior and planning:
+
+11 U.S.C. Section 548
+Cornell LII -- fraudulent transfers
+
+11 U.S.C. Section 523(a)(2)
+Cornell LII -- fraud exception
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+U.S. Trustee Program
+DOJ oversight
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Fraudulent Transfer Research
+Google Scholar
+
+Related Guides
+
+Behind on Rent?
+
+Free bankruptcy information guide
+
+behindonrent.com →
+
+Can't Pay Your Bills?
+
+Options when you can't pay your bills
+
+cantpaymybills.com →
+
+Credit Counseling Requirement
+
+Free bankruptcy information guide
+
+creditcounselingbankruptcy.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Transfers ·
+Family Payments ·
+Credit Cards ·
+Hide Income ·
+Retirement ·
+Sell Property ·
+Waiting ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
