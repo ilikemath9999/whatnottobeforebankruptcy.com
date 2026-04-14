@@ -26,6 +26,8 @@ Do Not Cash Out Retirement
 
 Your retirement accounts are protected in bankruptcy. Cashing them out to pay debts that would be discharged is the most expensive mistake people make.
 
+Home›whatnottobeforebankruptcy.com›Do Not Cash Out Retirement Before Bankruptcy
+
 The math is devastating
 
 Consider this scenario: you owe $50,000 in credit card debt. You have $40,000 in a 401(k). You cash out the 401(k) and use it to pay credit cards, hoping to avoid bankruptcy.
@@ -79,11 +81,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -116,10 +118,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -197,7 +199,9 @@ FAQ
 
 Do Not Hide Income
 
-Underreporting income on your bankruptcy petition is perjury. Trustees have multiple ways to verify what you earn -- and they use all of them.
+Underreporting income on your bankruptcy petition is perjury. Trustees have multiple ways to verify what you earn - and they use all of them.
+
+Home›whatnottobeforebankruptcy.com›Do Not Hide Income Before or During Bankruptcy
 
 Everything is under oath
 
@@ -245,6 +249,8 @@ Payday Loan Debt in Bankruptcy
 
 Related Topics
 
+Rule 9037 PII Scanner (Open Source)
+
 How to File Bankruptcy
 What Is Chapter 7?
 Chapter 13 Plans
@@ -252,11 +258,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -289,10 +295,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -370,11 +376,13 @@ FAQ
 
 Do Not Pay Family First
 
-Paying back a family loan before filing bankruptcy seems like the right thing to do. It is one of the most common -- and most damaging -- pre-filing mistakes.
+Paying back a family loan before filing bankruptcy seems like the right thing to do. It is one of the most common - and most damaging - pre-filing mistakes.
+
+Home›whatnottobeforebankruptcy.com›Do Not Pay Family Members Before Filing Bankruptcy
 
 Preferential transfers to insiders
 
-Under 11 U.S.C. § 547, the trustee can avoid (claw back) payments made to creditors before filing if those payments give the creditor more than they would receive in a Chapter 7 liquidation. For ordinary creditors, the lookback is 90 days. For insiders -- family members, business partners, and closely related entities -- the lookback is 1 full year.
+Under 11 U.S.C. § 547, the trustee can avoid (claw back) payments made to creditors before filing if those payments give the creditor more than they would receive in a Chapter 7 liquidation. For ordinary creditors, the lookback is 90 days. For insiders - family members, business partners, and closely related entities - the lookback is 1 full year.
 
 Family members are insiders under § 101(31). If you paid your mother back $5,000 on a personal loan 8 months before filing, the trustee can sue your mother to recover that $5,000 for the estate.
 
@@ -384,7 +392,7 @@ Why this happens
 
 People feel obligated to pay back family before filing. They think: "I owe my brother $10,000. He loaned it to me in good faith. I should pay him back before I file." The intention is honorable, but the legal consequence is that you have dragged your brother into your bankruptcy case.
 
-The trustee does not care about your intentions. The trustee sees that one creditor got paid while others got nothing. That is the definition of a preference -- and the Code requires the trustee to pursue it.
+The trustee does not care about your intentions. The trustee sees that one creditor got paid while others got nothing. That is the definition of a preference - and the Code requires the trustee to pursue it.
 
 What happens to your family member
 
@@ -398,7 +406,7 @@ Your family member may need to hire their own attorney to respond
 
 The 1-year lookback for insiders is one of the longest in the Code. Even payments made 11 months before filing can be recovered. If you are considering bankruptcy, stop making payments to family members immediately and consult an attorney.
 
-The good news: your family member may still get paid. Once the preferential payment is returned to the estate, your family member becomes a creditor in the bankruptcy case and may receive a distribution -- just like every other unsecured creditor.
+The good news: your family member may still get paid. Once the preferential payment is returned to the estate, your family member becomes a creditor in the bankruptcy case and may receive a distribution - just like every other unsecured creditor.
 
 Related Guides
 
@@ -419,11 +427,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -456,10 +464,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -537,7 +545,9 @@ FAQ
 
 Do Not Run Up Credit Before Bankruptcy
 
-Charging up credit cards when you know you are about to file creates a legal presumption of fraud -- and those debts may not be discharged.
+Charging up credit cards when you know you are about to file creates a legal presumption of fraud - and those debts may not be discharged.
+
+Home›whatnottobeforebankruptcy.com›Do Not Run Up Credit Cards Before Bankruptcy
 
 The luxury goods presumption
 
@@ -555,11 +565,11 @@ What counts as luxury goods?
 
 "Luxury goods or services" does not include goods or services reasonably necessary for support or maintenance. Groceries, medical expenses, and basic necessities are not luxury goods. But electronics, vacations, expensive clothing, and entertainment are.
 
-The line is not always clear. Courts look at the totality of the circumstances -- what you bought, when, and whether you had any reasonable expectation of being able to pay.
+The line is not always clear. Courts look at the totality of the circumstances - what you bought, when, and whether you had any reasonable expectation of being able to pay.
 
 What actually happens
 
-Most credit card companies do not pursue nondischargeability actions over small amounts -- it is not worth the legal cost. But for larger charges (several thousand dollars or more), the creditor may file an adversary proceeding alleging fraud under § 523(a)(2).
+Most credit card companies do not pursue nondischargeability actions over small amounts - it is not worth the legal cost. But for larger charges (several thousand dollars or more), the creditor may file an adversary proceeding alleging fraud under § 523(a)(2).
 
 If the court finds fraud, those specific debts survive your bankruptcy. You still owe them after discharge.
 
@@ -584,11 +594,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -621,10 +631,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -702,7 +712,9 @@ FAQ
 
 Do Not Sell Property Below Value
 
-Selling assets for less than they are worth before filing creates a constructive fraudulent transfer -- even without intent to defraud.
+Selling assets for less than they are worth before filing creates a constructive fraudulent transfer - even without intent to defraud.
+
+Home›whatnottobeforebankruptcy.com›Do Not Sell Property Below Value Before Bankruptcy
 
 Constructive fraudulent transfers
 
@@ -714,7 +726,7 @@ Selling your car worth $15,000 to a friend for $5,000 is a textbook constructive
 
 What counts as less than reasonably equivalent value?
 
-Courts generally look at the fair market value of the property at the time of the transfer. If the sale price is significantly below market value -- typically less than 70-75% of fair value -- it is likely to be challenged. Factors include:
+Courts generally look at the fair market value of the property at the time of the transfer. If the sale price is significantly below market value - typically less than 70-75% of fair value - it is likely to be challenged. Factors include:
 
 Was the price arm's-length (negotiated between unrelated parties)?
 
@@ -728,7 +740,7 @@ Legitimate sales are fine
 
 Selling property at fair market value is perfectly legal, even right before filing. The issue is the discount. If you sell your car for what it is actually worth, the cash proceeds replace the car in your estate. The trustee has no complaint because the estate was not diminished.
 
-Problems arise when the sale is really a disguised gift -- selling property to insiders at a steep discount to keep it out of the bankruptcy estate.
+Problems arise when the sale is really a disguised gift - selling property to insiders at a steep discount to keep it out of the bankruptcy estate.
 
 Garage sales and personal property. Selling household items at typical garage-sale prices is generally not a problem because the items have low liquidation value anyway. But selling a boat, RV, jewelry, or other high-value asset at a steep discount within 2 years of filing will draw trustee scrutiny.
 
@@ -751,11 +763,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -788,10 +800,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -871,11 +883,13 @@ Do Not Transfer Assets Before Bankruptcy
 
 Transferring property to hide it from creditors is the fastest way to turn a fresh start into a federal case.
 
+Home›whatnottobeforebankruptcy.com›Do Not Transfer Assets Before Bankruptcy
+
 The law on fraudulent transfers
 
 Under 11 U.S.C. § 548(a)(1), the trustee can void any transfer made within 2 years of filing if the debtor made the transfer with "actual intent to hinder, delay, or defraud" a creditor.
 
-The trustee can also void transfers where the debtor received "less than a reasonably equivalent value" while insolvent -- even without fraudulent intent. This is called a constructive fraudulent transfer under § 548(a)(1)(B).
+The trustee can also void transfers where the debtor received "less than a reasonably equivalent value" while insolvent - even without fraudulent intent. This is called a constructive fraudulent transfer under § 548(a)(1)(B).
 
 11 U.S.C. § 548(a)(1)(A): "The trustee may avoid any transfer of an interest of the debtor in property... that was made within 2 years before the date of the filing of the petition, if the debtor voluntarily or involuntarily made such transfer with actual intent to hinder, delay, or defraud any entity to which the debtor was indebted."
 
@@ -924,11 +938,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -961,10 +975,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -1042,17 +1056,19 @@ FAQ
 
 Do Not Wait Too Long to File
 
-Every week you delay filing, creditors are garnishing wages, levying bank accounts, filing liens, and accumulating interest. The automatic stay stops all of it -- but only if you file.
+Every week you delay filing, creditors are garnishing wages, levying bank accounts, filing liens, and accumulating interest. The automatic stay stops all of it - but only if you file.
+
+Home›whatnottobeforebankruptcy.com›Do Not Wait Too Long to File Bankruptcy
 
 What happens while you wait
 
 While you are debating whether to file, creditors are not waiting. They are:
 
-Garnishing your wages. In most states, creditors can take up to 25% of your disposable earnings. That money is gone -- it cannot be recovered in bankruptcy.
+Garnishing your wages. In most states, creditors can take up to 25% of your disposable earnings. That money is gone - it cannot be recovered in bankruptcy.
 
 Levying your bank accounts. A judgment creditor can freeze and seize funds in your bank account.
 
-Filing liens on your property. Judgment liens attach to your real estate and can survive bankruptcy under 11 U.S.C. § 522(f) avoidance rules -- but only if you have sufficient exemptions.
+Filing liens on your property. Judgment liens attach to your real estate and can survive bankruptcy under 11 U.S.C. § 522(f) avoidance rules - but only if you have sufficient exemptions.
 
 Repossessing vehicles. Secured creditors can repossess without warning in most states.
 
@@ -1097,11 +1113,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1134,10 +1150,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -1197,7 +1213,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Pre-Filing Bankruptcy FAQ -- What to Avoid
+## Pre-Filing Bankruptcy FAQ - What to Avoid
 Source: https://whatnottobeforebankruptcy.com/faq.html
 
 whatnottobeforebankruptcy.com
@@ -1215,21 +1231,23 @@ FAQ
 
 Pre-Filing FAQ
 
-Common questions about what to do -- and what not to do -- before filing bankruptcy.
+Common questions about what to do - and what not to do - before filing bankruptcy.
+
+Home›whatnottobeforebankruptcy.com›Pre-Filing Bankruptcy FAQ - What to Avoid
 
 Frequently asked questions
 
 How long before filing should I stop using credit cards?
 
-Stop immediately once you know you will file. The safe harbor is at least 90 days for purchases over $725 on a single card (luxury goods) and 70 days for cash advances over $1,000. But the broader fraud analysis under 11 U.S.C. § 523(a)(2)(A) has no fixed time period -- so the longer you wait, the safer you are.
+Stop immediately once you know you will file. The safe harbor is at least 90 days for purchases over $725 on a single card (luxury goods) and 70 days for cash advances over $1,000. But the broader fraud analysis under 11 U.S.C. § 523(a)(2)(A) has no fixed time period - so the longer you wait, the safer you are.
 
 Can I pay my regular bills?
 
-Yes. Paying ordinary, recurring obligations -- mortgage, rent, car payment, utilities, insurance -- is fine. These are not preferential transfers because they are payments in the ordinary course of business. The problem arises when you pay old debts, lump-sum repayments, or one creditor at the expense of others.
+Yes. Paying ordinary, recurring obligations - mortgage, rent, car payment, utilities, insurance - is fine. These are not preferential transfers because they are payments in the ordinary course of business. The problem arises when you pay old debts, lump-sum repayments, or one creditor at the expense of others.
 
 Can I sell things before filing?
 
-You can sell property at fair market value. The proceeds become part of your estate, and you must disclose the sale. Do not sell property below value to family or friends -- that is a constructive fraudulent transfer.
+You can sell property at fair market value. The proceeds become part of your estate, and you must disclose the sale. Do not sell property below value to family or friends - that is a constructive fraudulent transfer.
 
 Can I give gifts before filing?
 
@@ -1266,11 +1284,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1303,10 +1321,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -1369,6 +1387,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 ## What Not to Do Before Filing Bankruptcy [2026]
 Source: https://whatnottobeforebankruptcy.com/
 
+Skip to main content
+
 whatnottobeforebankruptcy.com
 ☰
 
@@ -1397,7 +1417,7 @@ Luxury goods presumption threshold
 
 Why the pre-filing period matters
 
-The bankruptcy trustee does not just review your finances on the day you file. They look backward -- examining your transactions, transfers, and financial decisions for months or even years before filing. Under 11 U.S.C. § 548, the lookback for fraudulent transfers is 2 years. Under § 547, preferential payments can be clawed back from 90 days to 1 year.
+The bankruptcy trustee does not just review your finances on the day you file. They look backward - examining your transactions, transfers, and financial decisions for months or even years before filing. Under 11 U.S.C. § 548, the lookback for fraudulent transfers is 2 years. Under § 547, preferential payments can be clawed back from 90 days to 1 year.
 
 Many people make well-intentioned mistakes during this period. They pay back family members who loaned them money. They transfer a car title to a spouse. They cash out retirement to try to stay current on bills. Every one of these actions can create serious problems in your bankruptcy case.
 
@@ -1464,11 +1484,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1571,10 +1591,10 @@ Further Reading & Resources
 Authority sources for deeper research on pre-bankruptcy behavior and planning:
 
 11 U.S.C. Section 548
-Cornell LII -- fraudulent transfers
+Cornell LII - fraudulent transfers
 
 11 U.S.C. Section 523(a)(2)
-Cornell LII -- fraud exception
+Cornell LII - fraud exception
 
 Bankruptcy Basics
 USCourts.gov
@@ -1639,3 +1659,81 @@ FAQ
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy Policy
+
+Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+
+Cited by the Federal Rules Committee (26-BK-3)
+
+---
+
+## Privacy Policy - whatnottobeforebankruptcy.com
+Source: https://whatnottobeforebankruptcy.com/privacy.html
+
+whatnottobeforebankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
